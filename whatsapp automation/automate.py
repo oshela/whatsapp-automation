@@ -1,9 +1,8 @@
 '---------------------------------------------------------------------------------------
 ' Module     : mWhatsAppBOT
-' Author     : Sven from Coding is Fun
-' YouTube    : https://youtube.com/c/CodingIsFun
-' Website    : https://PythonAndVBA.com
-' Email      : contact@pythonandvba.com
+' Author     : oshela
+
+' Email      : abimikuoshela@gmail.com
 ' Purpose    : Send (multiple) text messages, media and documents via WebWhatsApp
 ' Dependency : VBA Selenium Type Library | https://github.com/florentbr/SeleniumBasic
 '---------------------------------------------------------------------------------------
